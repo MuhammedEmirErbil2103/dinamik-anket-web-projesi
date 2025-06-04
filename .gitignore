@@ -1,0 +1,8 @@
+# Visual Studio için
+AnketAPIs/bin/
+AnketAPIs/obj/
+AnketAPIs/.vs/
+
+# VS Code / frontend
+node_modules/
+.vscode/

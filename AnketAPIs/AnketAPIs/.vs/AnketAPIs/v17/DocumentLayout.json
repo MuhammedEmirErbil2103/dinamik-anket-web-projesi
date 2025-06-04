@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|c:\\users\\emir\\downloads\\anketapis\\anketapis\\anketapis\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|solutionrelative:anketapis\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|c:\\users\\emir\\downloads\\anketapis\\anketapis\\anketapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|solutionrelative:anketapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|c:\\users\\emir\\downloads\\anketapis\\anketapis\\anketapis\\controllers\\evaluationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|solutionrelative:anketapis\\controllers\\evaluationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|c:\\users\\emir\\downloads\\anketapis\\anketapis\\anketapis\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|solutionrelative:anketapis\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|c:\\users\\emir\\downloads\\anketapis\\anketapis\\anketapis\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AD50C9-3EC4-4F61-9277-2D6E44F6AC1A}|AnketAPIs\\AnketAPIs.csproj|solutionrelative:anketapis\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\appsettings.json",
+              "RelativeDocumentMoniker": "AnketAPIs\\appsettings.json",
+              "ToolTip": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\appsettings.json",
+              "RelativeToolTip": "AnketAPIs\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T10:57:23.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "AnketAPIs\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "AnketAPIs\\Controllers\\QuestionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:09:10.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "AnketAPIs\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "AnketAPIs\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:45:20.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvaluationController.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\Controllers\\EvaluationController.cs",
+              "RelativeDocumentMoniker": "AnketAPIs\\Controllers\\EvaluationController.cs",
+              "ToolTip": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\Controllers\\EvaluationController.cs",
+              "RelativeToolTip": "AnketAPIs\\Controllers\\EvaluationController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:09:50.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SurveyController.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\Controllers\\SurveyController.cs",
+              "RelativeDocumentMoniker": "AnketAPIs\\Controllers\\SurveyController.cs",
+              "ToolTip": "C:\\Users\\emir\\Downloads\\AnketAPIs\\AnketAPIs\\AnketAPIs\\Controllers\\SurveyController.cs",
+              "RelativeToolTip": "AnketAPIs\\Controllers\\SurveyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:23:03.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+/*Container styling*/
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Header styling */
+header {
+  background: linear-gradient(90deg, #4facfe   , #00f2fe); /* Gradient arka plan */
+  color: #ffffff; /* Yazı rengi */
+  padding: 20px 30px; /* İç boşluk */
+  border-radius: 10px; /* Yuvarlak köşeler */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Hafif gölge */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px; /* Diğer içerikten ayrılma */
+}
+
+header h1 {
+  font-size: 1.8rem; /* Başlık boyutu */
+  margin: 0;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif; /* Modern bir yazı tipi */
+  letter-spacing: 1px; /* Harfler arası boşluk */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Hafif gölge efekti */
+}
+
+header .btn {
+  font-size: 1rem;
+  padding: 10px 20px; /* Buton iç boşluk */
+  background: #ff416c; /* Gradient başlangıç rengi */
+  background: linear-gradient(90deg, #ff4b2b, #ff416c); /* Gradient arka plan */
+  border: none;
+  color: #ffffff; /* Yazı rengi */
+  border-radius: 25px; /* Yuvarlak buton */
+  font-family: "Poppins", sans-serif; /* Yazı tipi */
+  font-weight: 600; /* Kalın yazı */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Hafif gölge */
+  cursor: pointer;
+  transition: all 0.3s ease; /* Hover ve diğer geçişler için animasyon */
+}
+
+header .btn:hover {
+  transform: scale(1.05); /* Hover efekti: büyütme */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Daha güçlü gölge */
+}
+
+header .btn:focus {
+  outline: none; /* Odak çizgisi yok */
+}
+
+/* Heading styling */
+h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 30px;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Card container styling */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+/* Card styling */
+.card {
+  background-color: #fff;
+  flex: 1 1 calc(33.333% - 20px); /* Üç kart per satır */
+  max-width: calc(33.333% - 20px); /* Üç kart per satır */
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+  padding: 20px;
+  text-align: left;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Card image styling */
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+/* Card text styling */
+.card h2 {
+  font-size: 1.2rem;
+  color: #333;
+  font-family: 'Arial', sans-serif;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 5px 0;
+}
+
+.card strong {
+  font-weight: bold;
+  color: #333;
+}
+
+.card .btn {
+  display: inline-block;
+  background-color: #007BFF;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 15px;
+  transition: background-color 0.3s;
+}
+
+.card .btn:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive styling */
+@media (max-width: 992px) {
+  .card {
+    flex: 1 1 calc(50% - 20px); /* İki kart per satır */
+    max-width: calc(50% - 20px);
+  }
+
+  header h1 {
+    font-size: 1.5rem; /* Daha küçük başlık */
+  }
+
+  header .btn {
+    font-size: 0.9rem; /* Daha küçük buton */
+  }
+}
+
+@media (max-width: 768px) {
+  .card {
+    flex: 1 1 100%; /* Tek kart per satır */
+    max-width: 100%;
+  }
+
+  .row {
+    justify-content: center; /* Orta hizalama */
+  }
+
+  header {
+    flex-direction: column; /* Mobilde dikey düzen */
+    text-align: center;
+  }
+
+  header h1 {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 1.8rem; /* Daha küçük başlık */
+  }
+
+  header .btn {
+    padding: 8px 15px; /* Buton boşlukları küçültüldü */
+  }
+}
